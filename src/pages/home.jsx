@@ -19,8 +19,8 @@ export default function Home({ setTitle }) {
     return (
         <>
             <HomeHero
-                title="Your Name"
-                text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies cursus risus sit amet cursus. Aliquam consequat sollicitudin auctor. Aliquam diam lorem, eleifend at blandit et, suscipit sit amet ante. Nullam a tincidunt augue, gravida dictum est. Vestibulum gravida quis tellus vitae posuere."
+                title="Ahmed Elbary"
+                text="MSc Student in Robotics and Autonomous Systems"
                 imageSrc={profilePic}
             />
             <CardRow title="A comprehensive education" cards={educationCards} />
